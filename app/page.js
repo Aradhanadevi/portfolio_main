@@ -8,6 +8,7 @@ import Header from "./components/Header";
 import Navbar from "./components/Nav";
 import Services from "./components/Services";
 import Work from "./components/Work";
+import GitHubActivity from "./components/GithubComits";
 export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   useEffect(() => {
@@ -35,6 +36,7 @@ export default function Home() {
       <Services isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
       <Work isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
       <Contact isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
+      <GitHubActivity isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
       <Footer isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />
     </>
   );
