@@ -9,6 +9,7 @@ import Navbar from "./components/Nav";
 import Services from "./components/Services";
 import Work from "./components/Work";
 import GitHubActivity from "./components/GithubComits";
+
 export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   useEffect(() => {
