@@ -98,6 +98,11 @@ export const workData = [
         bgImage: '/public_assets/work-3.png',
     },
     {
+        title: 'Photography site',
+        description: 'Web Design',
+        bgImage: '/public_assets/work-3.png',
+    },
+    {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/public_assets/work-4.png',
