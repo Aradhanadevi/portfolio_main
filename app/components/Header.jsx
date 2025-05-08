@@ -69,7 +69,8 @@ const Header = () => {
           initial={{y: 30, opacity: 0}}
           whileInView={{y: 0, opacity: 1}}
           transition={{duration: 0.6, delay: 1.2}}
-          href="/sample-resume.pdf"
+          href="/Resume.pdf"
+          target="_blank"
           className="px-10 py-3 boredr rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black"
         >
           My Resume
