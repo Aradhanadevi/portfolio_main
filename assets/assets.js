@@ -88,8 +88,8 @@ export const workData = [
         bgImage: '/public_assets/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Agri-Portal',
+        description: 'The agriculture portal for farmers',
         bgImage: '/public_assets/work-3.png',
     },
     {
