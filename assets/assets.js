@@ -93,12 +93,12 @@ export const workData = [
         bgImage: '/public_assets/work-3.png',
     },
     {
-        title: 'Photography site',
+        title: '3D Model Gallery',
         description: 'Web Design',
         bgImage: '/public_assets/work-3.png',
     },
      {
-        title: 'Photography site',
+        title: 'Animation Portfolio in Figma',
         description: 'Web Design',
         bgImage: '/public_assets/work-3.png',
     },
