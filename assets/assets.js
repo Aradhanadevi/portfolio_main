@@ -78,7 +78,7 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'Laptop-Lore gallery',
         description: 'Web Design',
         bgImage: '/public_assets/work-1.png',
     },
