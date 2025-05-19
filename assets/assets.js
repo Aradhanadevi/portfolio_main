@@ -93,6 +93,11 @@ export const workData = [
         bgImage: '/public_assets/work-3.png',
     },
     {
+        title: 'Portfoli',
+        description: 'The agriculture portal for farmers',
+        bgImage: '/public_assets/work-3.png',
+    },
+    {
         title: '3D Model Gallery',
         description: 'Web Design',
         bgImage: '/public_assets/work-3.png',
