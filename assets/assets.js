@@ -117,6 +117,11 @@ export const workData = [
         description: 'UI/UX Design',
         bgImage: '/public_assets/work-4.png',
     },
+    {
+        title: 'Weather App',
+        description: 'App Development',
+        bgImage: '/public_assets/work-4.png',
+    },
 ]
 
 export const serviceData = [
