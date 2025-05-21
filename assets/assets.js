@@ -122,6 +122,11 @@ export const workData = [
         description: 'App Development',
         bgImage: '/public_assets/work-4.png',
     },
+    {
+        title: 'Horoscope App',
+        description: 'App Development',
+        bgImage: '/public_assets/work-4.png',
+    },
 ]
 
 export const serviceData = [
