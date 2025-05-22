@@ -123,7 +123,7 @@ export const workData = [
         bgImage: '/public_assets/work-4.png',
     },
     {
-        title: 'Horoscope App',
+        title: 'Daily Horoscope App',
         description: 'App Development',
         bgImage: '/public_assets/work-4.png',
     },
