@@ -136,6 +136,7 @@ export const serviceData = [
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
     { icon: assets.graphics_icon, title: 'Animation', description: 'Creative design solutions to enhance visual communication...', link: '' },
     { icon: assets.graphics_icon, title: 'Animation', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.graphics_icon, title: 'Animation', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
 
 export const infoList = [
