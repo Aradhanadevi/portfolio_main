@@ -135,7 +135,6 @@ export const serviceData = [
     { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience. so I made a portfolio where it has my all design.', link: '' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
     { icon: assets.graphics_icon, title: 'Animation', description: 'Creative design solutions to enhance visual communication...', link: '' },
-    { icon: assets.graphics_icon, title: 'Animation', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
 
 export const infoList = [
