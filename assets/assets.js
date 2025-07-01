@@ -88,6 +88,11 @@ export const workData = [
         bgImage: '/public_assets/work-1.png',
     },
     {
+        title: 'Text Summarizer',
+        description: 'Ai',
+        bgImage: '/public_assets/work-1.png',
+    },
+    {
         title: 'Quiz Managment System',
         description: 'Mobile App',
         bgImage: '/public_assets/work-2.png',
