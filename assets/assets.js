@@ -107,6 +107,11 @@ export const workData = [
         description: 'Web Design',
         bgImage: '/public_assets/work-3.png',
     },
+    {
+        title: 'Skill Share App',
+        description: 'App Devlopment',
+        bgImage: '/public_assets/work-3.png',
+    },
      {
         title: 'Animation Portfolio in Figma',
         description: 'Web Design',
