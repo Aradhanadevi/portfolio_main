@@ -80,12 +80,12 @@ export const workData = [
     {
         title: 'Laptop-Lore gallery',
         description: 'Web Design',
-        bgImage: '/public_assets/work-1.png',
+        bgImage: '/public_assets/work_web.png',
     },
     {
         title: 'Ai ChatBot',
         description: 'Ai',
-        bgImage: '/public_assets/work-1.png',
+        bgImage: '/public_assets/ChattyBot.png',
     },
     {
         title: 'Quiz Managment System',
