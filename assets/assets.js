@@ -88,7 +88,7 @@ export const workData = [
         bgImage: '/public_assets/ChattyBot.png',
     },
     {
-        title: 'Quiz Managment System',
+        title: 'Easy Quizy',
         description: 'Mobile App',
         bgImage: '/public_assets/work-2.png',
     },
@@ -124,7 +124,7 @@ export const workData = [
     },
     {
         title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        description: 'UI/UX Design`s for various projects',
         bgImage: '/public_assets/work-4.png',
     },
     {
