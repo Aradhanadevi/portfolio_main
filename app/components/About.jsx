@@ -53,9 +53,7 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            Well i got an internship at iscribbles really hope to get some money
-            i am so excited to work there so that i can make some money in
-            future.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure repellat officia illo. Dolor eum dicta tenetur molestias dolorum pariatur enim illo, harum placeat blanditiis vero accusamus beatae. Esse, laudantium similique.
           </p>
           <motion.ul
             initial={{ opacity: 0 }}

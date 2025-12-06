@@ -27,9 +27,8 @@ const Services = () => {
           whileInView={{opacity: 1 }}
           transition={{delay: 0.7, duration: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        Lol I am all-rounder i know everything, dont worry i dont do vibe coding
-        as i know the base and advance programming. My goal is to be rich and
-        buy a boat-house for me.
+        Well this is just placeholder... I will update it soon with more
+        information.
       </motion.p>
       <motion.div
         initial={{opacity: 0 }}
