@@ -46,9 +46,9 @@ const Header = () => {
         whileInView={{opacity: 1}}
         transition={{duration: 0.6, delay: 0.7}}
         className="max-w-2xl mx-auto font-Ovo">
-        So i had done multiple internships in diffrent companies.Give me a
-        fucking job. Are you fucking kidding me every retard is getting a job
-        why not me.
+        I am a passionate and dedicated developer with expertise in both
+        frontend and backend development. I love creating beautiful and
+        functional user interfaces, as well as designing seamless user experiences.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
