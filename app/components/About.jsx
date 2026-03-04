@@ -53,7 +53,18 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure repellat officia illo. Dolor eum dicta tenetur molestias dolorum pariatur enim illo, harum placeat blanditiis vero accusamus beatae. Esse, laudantium similique.
+            Creative 2D & 3D Artist with expertise in 
+            Blender (3D modeling, rendering, and 
+            animation) and Grease Pencil for 2D 
+            animation. Skilled in crafting visually 
+            engaging digital art, character animations, 
+            and interactive UI/UX designs using Figma 
+            and other design tools. Passionate about 
+            blending storytelling with technology to 
+            deliver impactful visuals. Seeking an 
+            opportunity to contribute my artistic and 
+            technical skills in a dynamic design or 
+            animation-driven environment.
           </p>
           <motion.ul
             initial={{ opacity: 0 }}
