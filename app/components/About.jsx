@@ -53,18 +53,18 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            Creative 2D & 3D Artist with expertise in 
-            Blender (3D modeling, rendering, and 
-            animation) and Grease Pencil for 2D 
-            animation. Skilled in crafting visually 
-            engaging digital art, character animations, 
-            and interactive UI/UX designs using Figma 
-            and other design tools. Passionate about 
-            blending storytelling with technology to 
-            deliver impactful visuals. Seeking an 
-            opportunity to contribute my artistic and 
-            technical skills in a dynamic design or 
-            animation-driven environment.
+            I'm a full-stack web developer focused on building fast,
+            accessible, and maintainable web applications with React
+            and Next.js. I build responsive UIs using Tailwind CSS,
+            implement server-side and API routes with Node.js, and
+            work with databases such as MongoDB and Firebase. I enjoy
+            turning ideas into polished user experiences and shipping
+            production-ready features.
+          </p>
+          <p className="mb-6 max-w-2xl font-Ovo text-sm text-gray-600 dark:text-white/80">
+            Open to collaboration and new opportunities. I care about
+            performance, clean code, and continuous learning — currently
+            exploring performance optimizations and type-safe patterns.
           </p>
           <motion.ul
             initial={{ opacity: 0 }}

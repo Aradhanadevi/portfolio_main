@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { motion } from "motion/react";
 
 const Contact = () => {
-  const [result, setResult] = useState(" ");
+  const [result, setResult] = useState("");
 
   const onSubmit = async (event) => {
     event.preventDefault();
@@ -21,11 +21,10 @@ const Contact = () => {
     const data = await response.json();
 
     if (data.success) {
-      setResult("Form Submitted Successfully");
+      setResult("Form submitted successfully.");
       event.target.reset();
     } else {
-      console.log("Error", data);
-      setResult(data.message);
+      setResult(data.message || "An error occurred. Please try again later.");
     }
   };
   return (
@@ -54,7 +53,7 @@ const Contact = () => {
        whileInView={{opacity: 1 }}
        transition={{ delay: 0.7, duration: 0.5 }}
         className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        I would love to here from you, so if you have any question then feel
+        I would love to hear from you — if you have any questions, feel
         free to ask.
       </motion.p>
 
